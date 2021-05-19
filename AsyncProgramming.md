@@ -5,4 +5,5 @@ _cs445 day1assignment_
 ![git init commit](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/init:commit.png)
 ![git log](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/log.png)
 ![git restore](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/restore.png)
+![git amend](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/amend.png)
 

@@ -15,4 +15,5 @@ _cs445 day1assignment_
 ![git clone](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/clone.png)
 ![git pull](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/pull.png)
 ![git checkout](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/checkout.png)
+![git main](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/main.png)
 

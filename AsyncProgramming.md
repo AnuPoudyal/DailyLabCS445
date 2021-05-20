@@ -10,4 +10,5 @@ _cs445 day1assignment_
 ![git show](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/show.png)
 ![git show](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/branch.png)
 ![git merge](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/merge.png)
+![git alias](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/alias.png)
 

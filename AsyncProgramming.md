@@ -9,5 +9,12 @@ _cs445 day1assignment_
 ![git fetch](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/fetch.png)
 ![git show](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/show.png)
 ![git show](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/branch.png)
+ HEAD
 //branch
 //changes in login branch
+
+![git merge](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/merge.png)
+![git alias](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/alias.png)
+![git tag](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/tag.png)
+
+4871879e29c4f0c2ffa0c9b25cbe9d98ad987283

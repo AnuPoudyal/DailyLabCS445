@@ -17,5 +17,8 @@ _cs445 day1assignment_
 ![git alias](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/alias.png)
 ![git tag](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/tag.png)
 ![git clone](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/clone.png)
+![git pull](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/pull.png)
+![git checkout](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/checkout.png)
+![git main](https://github.com/AnuPoudyal/DailyLabCS445/blob/main/main.png)
 
 4871879e29c4f0c2ffa0c9b25cbe9d98ad987283

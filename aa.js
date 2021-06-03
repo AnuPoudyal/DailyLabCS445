@@ -1,9 +1,15 @@
-function University(name, dept) { 
-	this.name = name; 
-	this.dept = dept; 
-	this.graduation = function(year) { 
-		 console.log(`Graduating ${this.dept} ${year} students`); 
-	} 
-} 
-var miu = new Univeristy("MIU", "Computer Science"); 
-miu.graduation(2019);
+async function thisThrows() {
+	throw new Error("Thrown from thisThrows()");
+	}
+	
+	async function run() {
+	try {
+	await thisThrows();
+	} catch (e) {
+	console.log('Caught the error....');
+	console.error(e);
+	} finally {
+	console.log('We do cleanup here');
+	}
+	}
+	run()

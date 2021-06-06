@@ -148,4 +148,27 @@ const example=source.pipe(
 );
   const subscribe=example.subscribe(val=>console.log(val));  
     
- 
+  c l a s s S u b j e c t { class Subject{
+      observers=[];
+      this.observers.push(observer);
+  }
+    next(nessage){
+        this.observers.forEach(ob=> {
+            ob.next(message);
+            
+        });
+    }
+    
+    const subject=new Subject();
+    subject.subscribe({
+next:msg=>console.log('observerA'+msg)
+    });
+
+   subject.subscribe({
+next:msg=>console.log('observerB'+msg)
+
+   });
+    subject.next('hello');
+    subject.next('hi');
+    subject.next('hello');
+  

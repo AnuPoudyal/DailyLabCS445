@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Document</title>
+</head>
+<body>
+ <button id="btn">wait a bit</button>
+ 
+<script>
+function myCallBack(oldTime) {
+ 
+var times = "Old time: " + oldTime + "New time: " + Date();
+ 
+alert(times);
+ 
+}
+ 
+var loadTime = Date();
+btn.onmouseover = myCallBack(loadTime);
+btn.onclick = function() { myCallBack(loadTime) }; 
+ 
+</script>
+ 
+</body>
+</html>
